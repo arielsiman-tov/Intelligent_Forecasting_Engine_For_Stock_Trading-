@@ -1,0 +1,2 @@
+# Intelligent_Forecasting_Engine_For_Stock_Trading-
+AlgoTrade Project - Intelligent_Forecasting_Engine_For_Stock_Trading 
